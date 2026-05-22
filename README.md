@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230211
+# Name: PRAKASH V
+# Date: 25.5.2026
 
 
 # AIM:
@@ -42,6 +42,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="894" height="778" alt="image" src="https://github.com/user-attachments/assets/7c0087c3-8993-4a4a-9fcf-c48cd8d902a2" />
 
 
 
@@ -61,6 +62,8 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="937" height="633" alt="image" src="https://github.com/user-attachments/assets/5e2bf54f-10e0-4fa3-abb6-4e86dcfa8cd2" />
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -68,6 +71,8 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+
+<img width="890" height="544" alt="image" src="https://github.com/user-attachments/assets/bc05ce46-e811-4fb9-9c2c-d3ccd738aaca" />
 
 
 
@@ -82,6 +87,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="933" height="477" alt="image" src="https://github.com/user-attachments/assets/c4856cac-d3e4-4941-a625-af2db50d603e" />
 
 
 
@@ -99,6 +105,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="923" height="908" alt="image" src="https://github.com/user-attachments/assets/a457ac48-6bc4-42d8-bd74-7c88e9bc8a2d" />
 
 
 
@@ -120,6 +127,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="938" height="654" alt="image" src="https://github.com/user-attachments/assets/64e2d370-5628-40e7-aa2d-cf0330b14712" />
 
 
 
